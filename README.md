@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tonylin010
+- 👋 Hi, I’m Tony Lin
 - 👀 I’m interested in the tech industry.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects.
